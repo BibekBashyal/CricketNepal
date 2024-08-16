@@ -1,0 +1,168 @@
+#bb
+{
+	width: 259px;
+                height:192px; 
+	position: relative; 
+                float: left;
+padding:10px; 	
+vertical-align: top; 	
+ }
+#cc
+{
+	width: 259px;
+                height:192px; 
+	position: relative; 
+              padding:20px;
+float:left;  
+} 
+#dd
+{
+	width: 300px;
+                height:300px; 
+	position: relative; 
+              padding:10px;  
+} 
+#ee
+{
+	width: 350px;
+                height:144px; 
+	position: relative; 
+              
+} 
+#ff
+{
+	width: 281px;
+                height:180px; 
+	position: relative; 
+              padding:10px 40px 10px 80px ; 
+
+}
+#hh
+{
+	width: 450px;
+                height:183px; 
+	position: relative;
+padding:40px 10px; 
+
+} 
+
+#ii
+{
+	width: 450px;
+                height:183px; 
+	position: relative;
+padding:40px 100px;
+align:middle; 
+
+} 
+
+
+
+#bond
+{
+ vertical-align: top;
+  background-color:#ffff00;  
+}	
+
+body {
+    background-color: #800000;
+}
+
+#dog
+{
+ vertical-align: top;
+  background-color:#00ff00;  
+}	
+
+#cat
+{
+ vertical-align: top;
+  background-color:#808080;  
+}
+#snake
+{
+ vertical-align: top;
+  background-color:#00ffff;  
+}
+
+
+
+#form1
+{
+	 
+	border-radius:10px;
+	padding: 5px; 	
+}
+#zz
+{width: 300px;
+                height:202px; 
+	position: relative;
+}
+
+
+a 
+{
+	text-decoration: none;
+	color:white;  	
+}
+
+.menu ul li {
+                display:inline; 
+	margin: 0px 30px;
+                 padding:5px;
+	}
+
+.menu ul {
+	padding:10px 0px 0px 0px;
+	background-color:#0000ff; 
+	padding: 10px; 
+}
+
+.menu a:hover 
+{
+ color:black;
+ background-color:#ffffff; 
+	border-radius: 0px 15px;
+	padding: 10px; 		
+}
+
+#main
+{
+	width:1200px;
+                height:300px; 
+	position: relative; 
+}
+
+.menu .active a:link, .menu .active a:hover
+{
+	background-color:#9F0; 
+	border-radius: 0px 15px;
+	padding: 10px; 	
+}
+
+
+#live
+{
+	width: 300px;
+                height:80px; 
+	position: relative; 
+		
+}
+#font
+{
+font-size:40px;
+font-family:Army Expanded; 
+vertical-align: top; 	
+		
+}
+
+#babu
+{
+vertical-align: top; 	
+}
+
+#won
+{
+font-size :18px;
+font-family:times new roman;
+}
